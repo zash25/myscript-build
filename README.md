@@ -1,2 +1,2 @@
 # myscript-build
-All scripts and build with VS Code and AI Agent
+All scripts and builds with VS Code and AI Agent.
